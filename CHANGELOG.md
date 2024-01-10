@@ -1,6 +1,6 @@
 # @digitalbazaar/bbs-signatures ChangeLog
 
-## 1.0.0 - 2024-mm-dd
+## 1.0.0 - 2024-01-10
 
 ### Added
 - Initial version.
