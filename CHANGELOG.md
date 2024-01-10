@@ -1,6 +1,6 @@
 # @digitalbazaar/bbs-signatures ChangeLog
 
-## 1.1.0 - 2024-01-dd
+## 1.1.0 - 2024-01-10
 
 ### Added
 - Add `safeSecretKeyScalarBytes` to allow serialized `SK`
