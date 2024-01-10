@@ -1,5 +1,10 @@
 # @digitalbazaar/bbs-signatures ChangeLog
 
+## 1.2.0 - 2024-01-dd
+
+### Added
+- Export ciphersuite string constants for external use.
+
 ## 1.1.0 - 2024-01-10
 
 ### Added

@@ -7,7 +7,7 @@ import {CIPHERSUITES_TEST_VECTORS} from './bbs-test-vectors.js';
 chai.should();
 const {expect} = chai;
 
-const ciphersuite = 'BLS12-381-SHA-256';
+const ciphersuite = bbs.CIPHERSUITES.BLS12381_SHA256;
 const BLS12381_SHA256_TVS = CIPHERSUITES_TEST_VECTORS[1];
 
 describe('API', () => {

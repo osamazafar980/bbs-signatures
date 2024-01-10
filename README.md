@@ -49,6 +49,7 @@ import * as bbs from '@digitalbazaar/bbs-signatures';
 
 const {secretKey, publicKey} = await bbs.generateKeyPair({
   ciphersuite: 'BLS12-381-SHA-256'
+  // same as using the constant: bbs.CIPHERSUITES.BLS12381_SHA256
 });
 // includes `secretKey` and `publicKey` keys, each is a `Uint8Array`
 // other ciphersuite choice is: 'BLS12-381-SHAKE-256'
