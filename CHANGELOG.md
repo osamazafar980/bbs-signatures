@@ -1,6 +1,6 @@
 # @digitalbazaar/bbs-signatures ChangeLog
 
-## 2.0.0 - 2024-01-dd
+## 2.0.0 - 2024-01-10
 
 ### Changed
 - **BREAKING**: The `secretKey` returned from `generateKeyPair` and
